@@ -13,3 +13,7 @@ Explanation of Calculations:
 9. Top Occupation among High Earners in India: Filters for high earners in India (`'native-country' == 'India'`) and identifies the most common occupation.
 
 Ensure your `adult.data.csv` file is correctly formatted and located in the same directory as your script. Adjust paths and column names
+
+Dataset Source
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science.
+
